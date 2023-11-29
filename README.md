@@ -1,6 +1,6 @@
 <h1 style="color: #0000ff;"> 👨🏻‍💻 Empirestar247 </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+![github_cover_banner](file:///C:/Users/ESTHER%20EJIMOFOR/Downloads/thisisengineering-raeng-626ysiAR6x0-unsplash.jpg)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     'm a Full Stack Software Developer with a passion for crafting innovative solutions through code. I thrive on creating websites and applications that not only function seamlessly but also solve real-world problems.
@@ -149,9 +149,14 @@
 <!-- End Footer -->
 
 🤝  Let's Connect
-[LinkedIn](www.linkedin.com/in/estherejimofor)
-[Portfolio]https://www.(estherdevops.tech)
-[Twitter](https://x.com/leestymau?t=gQo6vzAjWmS_AJeQdEF6Rg&s=09)
+
+![LinkedIn](www.linkedin.com/in/estherejimofor)
+
+![Portfolio]https://www.(estherdevops.tech)
+
+![Twitter](https://x.com/leestymau?t=gQo6vzAjWmS_AJeQdEF6Rg&s=09)
+
+
 Feel free to reach out if you're interested in collaboration, have project ideas, or just want to chat about tech and innovation!
 
 <!-- 

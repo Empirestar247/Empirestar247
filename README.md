@@ -8,10 +8,15 @@
 <br>
 🚀  About Me
 🌐  Leveraging expertise in Full Stack Development to create scalable and efficient applications.
+    
 🔭  Currently contributing my skills at [Current Project or Company].
+
 💡  Embracing a culture of perpetual learning, exploring new technologies, and refining my craft.
+
 🌍  Committed to developing impactful, user-centric software solutions.
+
 📚  Firm belief in continuous improvement and staying at the forefront of industry trends.
+
 💻  Tech Stack
 <br>
 <div align="center">

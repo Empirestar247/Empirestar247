@@ -1,12 +1,12 @@
 <h1 style="color: #0000ff;"> 👨🏻‍💻 Empirestar247 </h1>
 
-![github_cover_banner](https://github.com/Empirestar247/thisisengineering-raeng-626ysiAR6x0-unsplash.jpg)
-
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     l'm a Full Stack Software Developer with a passion for crafting innovative solutions through code. I thrive on creating websites and applications that not only function seamlessly but also solve real-world problems.
 <br>
 <br>
+    
 🚀  About Me
+    
 🌐  Leveraging expertise in Full Stack Development to create scalable and efficient applications.
     
 🔭  Currently contributing my skills at [Current Project or Company].

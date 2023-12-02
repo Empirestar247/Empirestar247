@@ -22,7 +22,6 @@
 💻  Tech Stack
 <br>
 <div align="center">
-   [Email Me](mailto:davetechnova@gmail.com) 
 </div>
 </p>    
 <br>

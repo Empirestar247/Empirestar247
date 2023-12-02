@@ -119,8 +119,6 @@
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Empirestar247&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 

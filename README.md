@@ -1,5 +1,7 @@
 <h1 style="color: #0000ff;"> 👨🏻‍💻 Empirestar247 </h1>
 
+![github banner](https://camo.githubusercontent.com/fb790c2bffb5bf54f11a8750bdfc18d4154209337bad382f49b126d8261d7e72/68747470733a2f2f7777772e61796f6b6173797374656d732e636f6d2f77702d636f6e74656e742f75706c6f6164732f736f6674776172652d70726f647563742d646576656c6f706d656e742d626c6f672e6a7067)
+
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     l'm a Full Stack Software Developer with a passion for crafting innovative solutions through code. I thrive on creating websites and applications that not only function seamlessly but also solve real-world problems.
 <br>

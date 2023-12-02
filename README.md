@@ -25,6 +25,19 @@
 </div>
 </p>    
 <br>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
@@ -118,6 +131,8 @@
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Empirestar247&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
@@ -126,6 +141,16 @@
 <div class="stats" align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirestar247&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+https://github-readme-stats.vercel.app/api?username=Empirestar247&show_icons=true
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirestat247&size_weight=0.5&count_weight=0.5)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Empirestar247&show_icons=true&bg_color=00000000)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirestar247&hide_progress=true)
 

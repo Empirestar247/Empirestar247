@@ -129,12 +129,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirestar247&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirestar247&langs_count=8)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirestar247&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirestar247&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirestar247&hide_progress=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Empirestar247&show_icons=true&theme=radical)

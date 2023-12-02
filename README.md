@@ -128,8 +128,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirestar247&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Empirestar247&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirestar247&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)

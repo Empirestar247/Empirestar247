@@ -11,7 +11,7 @@
     
 🌐  Leveraging expertise in Full Stack Development to create scalable and efficient applications.
     
-🔭  Currently contributing my skills at [Current Project or Company].
+🔭  Currently contributing my skills at Alx Africa.
 
 💡  Embracing a culture of perpetual learning, exploring new technologies, and refining my craft.
 

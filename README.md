@@ -147,7 +147,7 @@
      <a href="https://www.youtube.com/@Davetechnova"target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
     </a>
-    <a href="https://moxiglobeblog.com/"target="_blank">
+    <a href="https://novablog.com/"target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
     </a>
     <a href="mailto:davetechnova@gmail.com"target="_blank">

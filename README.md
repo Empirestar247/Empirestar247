@@ -1,6 +1,5 @@
 <h1 style="color: #0000ff;"> 👨🏻‍💻 Esther Ejimofor</h1>
 
-![github banner](https://camo.githubusercontent.com/06d70367b7ee0cf7362e544561e0f951f3c83adf0ac48c820a41d456c3488d0f/68747470733a2f2f76746961636164656d792e6564752e766e2f75706c6f61642f696d616765732f66756c6c2d737461636b2d646576656c6f7065722d322e6a7067)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     l'm a Full Stack Software Developer with a passion for crafting innovative solutions through code. I thrive on creating websites and applications that not only function seamlessly but also solve real-world problems.

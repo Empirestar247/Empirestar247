@@ -1,7 +1,7 @@
 <h1 style="color: #0000ff;"> 👨🏻‍💻 Esther Ejimofor</h1>
 
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 20px;" >
     l'm a Full Stack Software Developer with a passion for crafting innovative solutions through code. I thrive on creating websites and applications that not only function seamlessly but also solve real-world problems.
 <br>
 <br>
